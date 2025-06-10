@@ -29,6 +29,7 @@ A hands-on JWT inspection lab to explore, test, and simulate vulnerabilities lik
   - Forge custom payloads (`{ "admin": true }`)
 - Toggle validation algorithms (HS256, RS256, ES256, etc.)
 - Logs all actions to `audit_log.json`
+- Docker support
 
 ## 🚀 Getting Started
 ```bash
