@@ -1,0 +1,1 @@
+ # Starts FastAPI app
